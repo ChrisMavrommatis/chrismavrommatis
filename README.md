@@ -21,6 +21,7 @@ I'm **Chris Mavrommatis**, a software engineer based in **Athens, Greece** <img 
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"> 
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST API">
 </p>
+
 ---
 
 ## 📌 Projects  
