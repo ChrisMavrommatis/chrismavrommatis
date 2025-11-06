@@ -29,4 +29,5 @@ I'm **Chris Mavrommatis**, a software engineer based in **Athens, Greece** <img 
 | Project | Description | Tech |
 |---------|------------|------|
 | [**Binacle.Net**](https://github.com/ChrisMavrommatis/Binacle.Net) | Binacle.Net is an API created to address the 3D Bin Packing Problem in real time. | .NET 9, C#, REST API, Docker |
+| [**Consentio**](https://github.com/ChrisMavrommatis/consentio) | Consentio is a minimalist, lightweight consent modal built for static sites, providing seamless tag manager integration and transparent consent handling. | JS, CSS, HTML, Webpack |
 
