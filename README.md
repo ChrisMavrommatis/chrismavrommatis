@@ -21,7 +21,6 @@ I'm **Chris Mavrommatis**, a software engineer specializing in **Security**, bas
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> 
 </p>
 
-
 ---
 
 ## 📌 Projects  
@@ -30,4 +29,5 @@ I'm **Chris Mavrommatis**, a software engineer specializing in **Security**, bas
 |---------|------------|------|
 | [**Binacle.Net**](https://github.com/ChrisMavrommatis/Binacle.Net) | Binacle.Net is an API created to address the 3D Bin Packing Problem in real time. | .NET 10, C#, REST API, Docker, GitHub Actions |
 | [**Consentio**](https://github.com/ChrisMavrommatis/consentio) | Consentio is a minimalist, lightweight consent modal built for static sites, providing seamless tag manager integration and transparent consent handling. | JavaScript, CSS, HTML, Webpack |
+| [**Claude Sandbox**](https://github.com/ChrisMavrommatis/claude-sandbox) | Run Claude Code in a hardened WSL2 distro on Windows. Rootless Podman boundary, tiered policies, credential guards, and automated verification. | PowerShell, Podman, WSL2, Bash |
 
