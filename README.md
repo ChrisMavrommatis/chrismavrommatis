@@ -2,6 +2,8 @@
 
 I'm **Chris Mavrommatis**, a software engineer specializing in **Security**, based in **Athens, Greece** <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="20" height="15">.
 
+Projects, credentials and writing: [chrismavrommatis.github.io](https://chrismavrommatis.github.io)
+
 ---
 
 ## 🚀 Tech Stack  
@@ -27,7 +29,7 @@ I'm **Chris Mavrommatis**, a software engineer specializing in **Security**, bas
 
 | Project | Description | Tech |
 |---------|------------|------|
-| [**Binacle.Net**](https://github.com/ChrisMavrommatis/Binacle.Net) | Binacle.Net is an API created to address the 3D Bin Packing Problem in real time. | .NET 10, C#, REST API, Docker, GitHub Actions |
+| [**Binacle.Net**](https://github.com/binacle-labs/Binacle.Net) | Binacle.Net is an API created to address the 3D Bin Packing Problem in real time. | .NET 10, C#, REST API, Docker, GitHub Actions |
 | [**Consentio**](https://github.com/ChrisMavrommatis/consentio) | Consentio is a minimalist, lightweight consent modal built for static sites, providing seamless tag manager integration and transparent consent handling. | JavaScript, CSS, HTML, Webpack |
 | [**Claude Sandbox**](https://github.com/ChrisMavrommatis/claude-sandbox) | Run Claude Code in a hardened WSL2 distro on Windows. Rootless Podman boundary, tiered policies, credential guards, and automated verification. | PowerShell, Podman, WSL2, Bash |
 
