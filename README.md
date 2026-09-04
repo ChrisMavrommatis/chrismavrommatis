@@ -30,6 +30,6 @@ Projects, credentials and writing: [chrismavrommatis.github.io](https://chrismav
 | Project | Description | Tech |
 |---------|------------|------|
 | [**Binacle.Net**](https://github.com/binacle-labs/Binacle.Net) | Binacle.Net is an API created to address the 3D Bin Packing Problem in real time. | .NET 10, C#, REST API, Docker, GitHub Actions |
-| [**Consentio**](https://github.com/ChrisMavrommatis/consentio) | Consentio is a minimalist, lightweight consent modal built for static sites, providing seamless tag manager integration and transparent consent handling. | JavaScript, CSS, HTML, Webpack |
-| [**Claude Sandbox**](https://github.com/ChrisMavrommatis/claude-sandbox) | Run Claude Code in a hardened WSL2 distro on Windows. Rootless Podman boundary, tiered policies, credential guards, and automated verification. | PowerShell, Podman, WSL2, Bash |
+| [**Consentio**](https://github.com/ChrisMavrommatis/consentio) | Consentio is a cookie consent banner for static sites. It takes one answer from the visitor and turns it into Google Consent Mode signals. | TypeScript, Web Components, Google Consent Mode |
+| [**OpenApiExamples**](https://github.com/ChrisMavrommatis/OpenApiExamples) | OpenApiExamples puts request and response examples into the OpenAPI document ASP.NET Core generates for a minimal API. | .NET, C#, OpenAPI, NuGet |
 
